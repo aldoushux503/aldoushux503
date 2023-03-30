@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there 👋, I'm Nikita</h1>
 
-<h3 align="center">I am a second year Computer Science student at the Polish-Japanese Academy of Information Technology, I am passionate about programming and aspire to succeed as a software engineer.</h3>
+<h3 align="center">I am a second year Computer Science student at the Polish-Japanese Academy of Information Technology, with a passion for programming and aspire to succeed as a software engineer.</h3>
 
 <p align="justify">I am a motivated individual with a specialization in Backend and Java. However, I am eager to enhance my expertise and explore new possibilities in the field of technology. I am open to experimenting with different programming languages to broaden my skill set.</p>
 <p align="justify">Currently, I am looking for a job and doing my own projects that help me become a better developer.</p>
