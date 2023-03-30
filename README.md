@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1 align="center"> Hi there 👋</h1>
 
 <h3 align="left">Contact with me:</h3>
 <p align="left"> <a href="https://t.me/nikitkaulitka" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg" width="40" height="40"/></a> 
@@ -27,17 +27,9 @@
 <a href="https://en.wikipedia.org/wiki/SQL" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/55160026/228908292-39c4d879-9eed-40a6-ab7b-65f3dcf2cc62.png" width="40" height="40"/></a> </p>
 
 
-<!--
-**aldoushux503/aldoushux503** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>Projects</h2>
 
-Here are some ideas to get you started:
+Project                    |  Description
+:-------------------------:|:-------------------------:
+<a href="https://github.com/aldoushux503/Cinema-Room-REST-Service"><img src="https://github-readme-stats.vercel.app/api/pin/?username=aldoushux503&repo=Cinema-Room-REST-Service" width="1200" style="border-radius: 8px; box-shadow: 0px 2px 6px rgba(0, 0, 0, 0.3);"></a>  |  <p align="justify" width="900">REST API for a cinema written in Java. The API is designed to allow customers to view available tickets, book them, make refunds, and get statistics.</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
