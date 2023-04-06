@@ -35,5 +35,7 @@
 
 <h2>Projects</h2>
 
-
+Project                    |  Description
+:-------------------------:|:-------------------------:
+<a href="https://github.com/aldoushux503/Cinema-Room-REST-Service"><img src="https://github-readme-stats.vercel.app/api/pin/?username=aldoushux503&repo=Cinema-Room-REST-Service" width="1200" style="border-radius: 8px; box-shadow: 0px 2px 6px rgba(0, 0, 0, 0.3);"></a>  |  <p align="justify" width="900">REST API for a cinema written in Java. The API is designed to allow customers to view available tickets, book them, make refunds, and get statistics.</p>
 
