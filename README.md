@@ -5,10 +5,15 @@
 <p align="justify">I am a motivated individual with a specialization in Backend and Java. However, I am eager to enhance my expertise and explore new possibilities in the field of technology. I am open to experimenting with different programming languages to broaden my skill set.</p>
 <p align="justify">Currently, I am looking for a job and doing my own projects that help me become a better developer.</p>
 
+- 📄 Check out my [**CV**](https://github.com/aldoushux503/aldoushux503/files/11180329/Nikita-Yelnikov-CV.pdf)
 
 <h3 align="left">Contact with me:</h3>
-<p align="left"> <a href="https://t.me/nikitkaulitka" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg" width="40" height="40"/></a> 
-<a href="mailto:elnikovnikita4@gmail.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="40" height="40"/></a> </p>
+<!-- Mail -->
+<p align="left"> 
+<a href="mailto:elnikovnikita4@gmail.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="40" height="40"/></a>
+<!-- Telegram -->
+<a href="https://t.me/nikitkaulitka" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg" width="40" height="40"/></a>
+</p> 
 
 <h3 align="left">Languages and Tools:</h3>
 <!-- Java -->
@@ -37,5 +42,6 @@
 
 Project                    |  Description
 :-------------------------:|:-------------------------:
-<a href="https://github.com/aldoushux503/Cinema-Room-REST-Service"><img src="https://github-readme-stats.vercel.app/api/pin/?username=aldoushux503&repo=Cinema-Room-REST-Service" width="1200" style="border-radius: 8px; box-shadow: 0px 2px 6px rgba(0, 0, 0, 0.3);"></a>  |  <p align="justify" width="900">REST API for a cinema written in Java. The API is designed to allow customers to view available tickets, book them, make refunds, and get statistics.</p>
+<a href="https://github.com/aldoushux503/Cinema-Room-REST-Service"><img src="https://github-readme-stats.vercel.app/api/pin/?username=aldoushux503&repo=Cinema-Room-REST-Service" width="1000" style="border-radius: 8px; box-shadow: 0px 2px 6px rgba(0, 0, 0, 0.3);"></a>  |  <p align="justify" width="900">REST API for a cinema written in Java. The API is designed to allow customers to view available tickets, book them, make refunds, and get statistics.</p> <!-- Cinema-Room-REST-Service -->
+<a href="https://github.com/aldoushux503/Anti-Fraud-System"><img src="https://github-readme-stats.vercel.app/api/pin/?username=aldoushux503&repo=Anti-Fraud-System" width="1000" style="border-radius: 8px; box-shadow: 0px 2px 6px rgba(0, 0, 0, 0.3);"></a>  |  <p align="justify" width="900">REST API for a cinema written in Java. The API is designed to allow customers to view available tickets, book them, make refunds, and get statistics.</p> <!-- Anti-Fraud-System -->
 
