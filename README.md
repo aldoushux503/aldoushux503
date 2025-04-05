@@ -1,109 +1,155 @@
-<h1 align="center">Hi there 🐱‍🐉, I'm Nikita Yelnikov</h1>
-<h3 align="center">Experienced Automation QA Engineer | Java Backend Developer</h3>
+<h1 align="center"> Nikita Yelnikov</h1>
+<p align="center">🐱‍👓 <i>Code is like humor. When you have to explain it, it's bad.</i> 🐱‍👓</p>
+<div align="center">
+  <a href="https://github.com/user-attachments/files/19616656/CV.-.Nikita.Yelnikov.pdf">
+    <img src="https://img.shields.io/badge/Download_CV-PDF-red?style=for-the-badge&logo=adobe-acrobat-reader" alt="Download CV">
+  </a>
+</div>
+<div align="center">
+  <a href="mailto:elnikovnikita4@gmail.com"><img src="https://img.shields.io/badge/Email-elnikovnikita4%40gmail.com-blue?style=flat-square&logo=gmail"></a>
+  <a href="https://t.me/nikitkaulitka"><img src="https://img.shields.io/badge/Telegram-nikitkaulitka-2CA5E0?style=flat-square&logo=telegram"></a>
+  <img src="https://komarev.com/ghpvc/?username=aldoushux503&color=blueviolet&style=flat-square" alt="Profile Views" />
+</div>
 
+
+
+## 🐱‍🚀 About Me
 <p align="center">
-  <em>
-    Computer Science student at the Polish-Japanese Academy of Information Technology (PJAIT). <br/>
-    Passionate about software engineering, focusing on Java Backend development and Test Automation. <br/>
-    Eager to learn, contribute to impactful projects, and grow as a developer.
-  </em>
+Experienced Automation QA Engineer with strong expertise in Java and test automation. I design and implement robust testing frameworks for web, mobile, and API testing, following industry best practices and clean code principles. I'm passionate about creating efficient, maintainable test suites that ensure high-quality software delivery.
 </p>
 
+- 🐱‍🐉 Open to new opportunities and collaborations 
+- 🐱‍👤 Currently working on advancing test automation frameworks and CI/CD integration
+- 💡 Continuously expanding my knowledge in Spring ecosystem and cloud technologies
+- 👨‍🎓 Pursuing Computer Science at Polish-Japanese Academy of Information Technology
+
+## 🛠️ Technical Skills
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Golang" />
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />
+  <img src="https://img.shields.io/badge/TestNG-007396?style=for-the-badge&logo=java&logoColor=white" alt="TestNG" />
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Appium-662D91?style=for-the-badge&logo=appium&logoColor=white" alt="Appium" />
+  <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white" alt="Maven" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+</div>
+
+<br>
+
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Movie Recommendation System</h3>
+      <p align="center">
+        <a href="https://github.com/aldoushux503/movie-recommendation-system">
+          <img src="https://img.shields.io/badge/GitHub-View_Repository-2ea44f?style=for-the-badge&logo=github" alt="View Repository">
+        </a>
+      </p>
+      <p align="justify">A sophisticated recommendation engine with multiple algorithms including collaborative filtering, content-based filtering, and hybrid approaches. Implemented with Java 17, MySQL, and MyBatis following SOLID principles.</p>
+      <p align="center"><strong>Technologies:</strong> Java 17, MySQL, MyBatis, Lombok, Maven</p>
+    </td>
+    <td width="50%">
+      <h3 align="center">Automation Exercise Test Framework</h3>
+      <p align="center">
+        <a href="https://github.com/aldoushux503/automation-exercise-test">
+          <img src="https://img.shields.io/badge/GitHub-View_Repository-2ea44f?style=for-the-badge&logo=github" alt="View Repository">
+        </a>
+      </p>
+      <p align="justify">Comprehensive multi-platform test automation framework for web and mobile applications. Implements the Page Object Model design pattern and supports cross-browser testing with parameterized TestNG tests.</p>
+      <p align="center"><strong>Technologies:</strong> Java, TestNG, Selenium WebDriver, Carina Framework, Appium, Maven</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Anti-Fraud System</h3>
+      <p align="center">
+        <a href="https://github.com/aldoushux503/Anti-Fraud-System">
+          <img src="https://img.shields.io/badge/GitHub-View_Repository-2ea44f?style=for-the-badge&logo=github" alt="View Repository">
+        </a>
+      </p>
+      <p align="justify">A simplified anti-fraud system for the financial sector with RESTful endpoints for user interaction and transaction validation based on heuristic rules. Features Spring Security implementation and H2 database integration.</p>
+      <p align="center"><strong>Technologies:</strong> Java, Spring Boot, Spring Data, Spring Security, H2</p>
+    </td>
+    <td width="50%">
+      <h3 align="center">Cinema Room REST Service</h3>
+      <p align="center">
+        <a href="https://github.com/aldoushux503/Cinema-Room-REST-Service">
+          <img src="https://img.shields.io/badge/GitHub-View_Repository-2ea44f?style=for-the-badge&logo=github" alt="View Repository">
+        </a>
+      </p>
+      <p align="justify">REST API for a cinema service allowing customers to view available tickets, book them, make refunds, and access statistics. Demonstrates best practices in API design and implementation.</p>
+      <p align="center"><strong>Technologies:</strong> Java, Spring Boot, REST API</p>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+## 🔍 Competition & API Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">GitHub User Info</h3>
+      <p align="center">
+        <a href="https://github.com/aldoushux503/GitHub-User-Info">
+          <img src="https://img.shields.io/badge/GitHub-View_Repository-2ea44f?style=for-the-badge&logo=github" alt="View Repository">
+        </a>
+      </p>
+      <p align="justify">Java application that interacts with the GitHub API to retrieve detailed information about a user's repositories and their branches. Demonstrates effective API integration and data processing.</p>
+      <p align="center"><strong>Technologies:</strong> Java, REST API, GitHub API</p>
+    </td>
+    <td width="50%">
+      <h3 align="center">Jira REST API</h3>
+      <p align="center">
+        <a href="https://github.com/aldoushux503/Jira-REST-API">
+          <img src="https://img.shields.io/badge/GitHub-View_Repository-2ea44f?style=for-the-badge&logo=github" alt="View Repository">
+        </a>
+      </p>
+      <p align="justify">Tool for interacting with the Jira REST API that retrieves and displays information about projects and their associated issues. Features robust error handling and data visualization.</p>
+      <p align="center"><strong>Technologies:</strong> Java, REST API, Jira API</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Green Code ING</h3>
+      <p align="center">
+        <a href="https://github.com/aldoushux503/Green-Code-ING">
+          <img src="https://img.shields.io/badge/GitHub-View_Repository-2ea44f?style=for-the-badge&logo=github" alt="View Repository">
+        </a>
+      </p>
+      <p align="justify">Solutions for three algorithmic problems from the ING Bank green coding contest. Includes comprehensive benchmarking and testing to ensure optimal performance and code efficiency.</p>
+      <p align="center"><strong>Technologies:</strong> Java, Algorithms, Benchmarking</p>
+    </td>
+    <td width="50%">
+      <!-- This cell intentionally left empty for symmetry -->
+    </td>
+  </tr>
+</table>
+<br>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aldoushux503&theme=radical" alt="GitHub Streak" />
+</div>
+
+<br>
 
 ---
 
-### 🐱‍🚀 About Me:
-
-* 🎓 Study in Computer Science from **PJAIT**, Warsaw.
-* 💻 Expertise in **Java Backend** (Spring Boot, Hibernate, MyBatis) and comprehensive **Test Automation** (Web, Mobile, API).
-* 🛠️ Proficient with tools like Selenium, TestNG, Appium, Postman, Docker, Git, Maven, Jenkins, Jira.
-* Continuously enhancing skills in microservices, cloud technologies, and advanced QA strategies.
-* 🚀 Open to challenging roles in **QA Automation** or **Software Engineering** where I can contribute to quality and innovation.
-* 📄 Download my detailed **[CV (PDF)](./Nikita-Yelnikov-CV.pdf)** for more information.
-
----
-
-### 🛠️ Tech Stack & Tools:
-
-*Skills include, but are not limited to:*
-
-<p align="left">
-  <strong>Languages:</strong> <br/>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="Java" height="35" style="vertical-align:middle;"/></a>&nbsp;
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="Python" height="35" style="vertical-align:middle;"/></a>&nbsp;
-  <a href="https://go.dev/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" alt="Go" height="35" style="vertical-align:middle;"/></a>&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/SQL" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuresqldatabase/azuresqldatabase-original.svg" alt="SQL" height="35" style="vertical-align:middle;"/></a>&nbsp; </p>
-
-<p align="left">
-  <strong>Frameworks & Libraries:</strong> <br/>
-  <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" alt="Spring" height="35" style="vertical-align:middle;"/></a>&nbsp;
-  <a href="https://hibernate.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original-wordmark.svg" alt="Hibernate" height="35" style="vertical-align:middle;"/></a>&nbsp;
-  <a href="https://mybatis.org/mybatis-3/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/M/mybatis-logo-924ECW11L7-seeklogo.com.png" alt="MyBatis" height="35" style="vertical-align:middle; background-color:white; padding: 2px; border-radius: 3px;"/></a>&nbsp;
-  <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" alt="Selenium" height="35" style="vertical-align:middle;"/></a>&nbsp;
-  <a href="https://testng.org" target="_blank" rel="noreferrer"> <img src="https://logowik.com/content/uploads/images/testng5879.logowik.com.webp" alt="TestNG" height="35" style="vertical-align:middle;"/></a>&nbsp;
-  <a href="http://appium.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/appium/appium.io/master/docs/images/appium_logo.png" alt="Appium" height="35" style="vertical-align:middle;"/></a>&nbsp;
-</p>
-
-<p align="left">
-  <strong>Databases:</strong> <br/>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" height="35" style="vertical-align:middle;"/></a>&nbsp;
-  <a href="https://www.microsoft.com/sql-server" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="MS SQL Server" height="35" style="vertical-align:middle;"/></a>&nbsp;
-  <a href="https://www.h2database.com" target="_blank" rel="noreferrer"> <img src="https://www.h2database.com/html/images/h2-logo-2.png" alt="H2 Database" height="35" style="vertical-align:middle;"/></a>&nbsp;
-</p>
-
-<p align="left">
-  <strong>Tools & Platforms:</strong> <br/>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" alt="Git" height="35" style="vertical-align:middle;"/></a>&nbsp;
-  <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="GitHub" height="35" style="vertical-align:middle;"/></a>&nbsp;
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="Docker" height="35" style="vertical-align:middle;"/></a>&nbsp;
-  <a href="https://maven.apache.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original-wordmark.svg" alt="Maven" height="35" style="vertical-align:middle;"/></a>&nbsp;
-  <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" height="35" style="vertical-align:middle;"/></a>&nbsp;
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" height="35" style="vertical-align:middle;"/></a>&nbsp;
-  <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" alt="Jira" height="35" style="vertical-align:middle;"/></a>&nbsp;
-  <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="Jenkins" height="35" style="vertical-align:middle;"/></a>&nbsp;
-</p>
-
----
-
-### 📫 Get In Touch:
-
-<p align="left">
-  I'm always open to discussing new projects, opportunities, or collaborations. <br/> Feel free to reach out! <br/><br/>
-  <a href="mailto:elnikovnikita4@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
-  <a href="https://t.me/nikitkaulitka" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>&nbsp;
-  </p>
-
----
-
-### 🚀 Featured Projects:
-
-*A selection of projects showcasing my skills:*
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aldoushux503&repo=carina-automation&theme=merko)](https://github.com/aldoushux503/carina-automation)
-* **Automation Exercise Test Framework:** Comprehensive multi-platform (Web, Mobile, API) test automation framework using Carina, Selenium, TestNG, Appium. Implements POM and data-driven testing.
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aldoushux503&repo=MovieRecSystem&theme=merko)](https://github.com/aldoushux503/MovieRecSystem)
-* **Movie Recommendation System:** Java/MyBatis-based recommendation engine with collaborative, content-based, and hybrid algorithms. Focuses on clean architecture and SOLID principles.
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aldoushux503&repo=Anti-Fraud-System&theme=merko)](https://github.com/aldoushux503/Anti-Fraud-System)
-* **Anti-Fraud System:** Java/Spring Boot prototype demonstrating REST API design, Spring Security integration, and heuristic rule-based validation for fraud detection.
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aldoushux503&repo=Cinema-Room-REST-Service&theme=merko)](https://github.com/aldoushux503/Cinema-Room-REST-Service)
-* **Cinema Room REST Service:** RESTful API built with Java/Spring Boot for managing cinema bookings, seat availability, and statistics.
-
----
-
-### 🏆 Competition & API Projects:
-
-*Projects involving API interactions and algorithmic problem-solving:*
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aldoushux503&repo=GitHub-User-Info&theme=merko)](https://github.com/aldoushux503/GitHub-User-Info)
-* **GitHub User Info:** Java client for the GitHub API to fetch repository and branch data.
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aldoushux503&repo=Jira-REST-API&theme=merko)](https://github.com/aldoushux503/Jira-REST-API)
-* **Jira REST API Client:** Java tool for querying Jira's REST API to retrieve project and issue information.
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aldoushux503&repo=Green-Code-ING&theme=merko)](https://github.com/aldoushux503/Green-Code-ING)
-* **Green Code ING:** Benchmarked solutions to algorithmic challenges from the ING Bank coding contest.
-
----
