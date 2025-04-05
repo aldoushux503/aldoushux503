@@ -1,15 +1,16 @@
 <h1 align="center"> Nikita Yelnikov</h1>
+<div align="center">
+  <a href="mailto:elnikovnikita4@gmail.com"><img src="https://img.shields.io/badge/Email-elnikovnikita4%40gmail.com-blue?style=flat-square&logo=gmail"></a>
+  <img src="https://komarev.com/ghpvc/?username=aldoushux503&color=blueviolet&style=flat-square" alt="Profile Views" />
+  <a href="https://t.me/nikitkaulitka"><img src="https://img.shields.io/badge/Telegram-nikitkaulitka-2CA5E0?style=flat-square&logo=telegram"></a>
+</div>
 <p align="center">🐱‍👓 <i>Code is like humor. When you have to explain it, it's bad.</i> 🐱‍👓</p>
 <div align="center">
   <a href="https://github.com/user-attachments/files/19616656/CV.-.Nikita.Yelnikov.pdf">
     <img src="https://img.shields.io/badge/Download_CV-PDF-red?style=for-the-badge&logo=adobe-acrobat-reader" alt="Download CV">
   </a>
 </div>
-<div align="center">
-  <a href="mailto:elnikovnikita4@gmail.com"><img src="https://img.shields.io/badge/Email-elnikovnikita4%40gmail.com-blue?style=flat-square&logo=gmail"></a>
-  <a href="https://t.me/nikitkaulitka"><img src="https://img.shields.io/badge/Telegram-nikitkaulitka-2CA5E0?style=flat-square&logo=telegram"></a>
-  <img src="https://komarev.com/ghpvc/?username=aldoushux503&color=blueviolet&style=flat-square" alt="Profile Views" />
-</div>
+
 
 
 
